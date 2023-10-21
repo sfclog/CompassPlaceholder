@@ -1,0 +1,6 @@
+name: CompassPlaceholder
+version: '${project.version}'
+main: me.sfclog.compassplaceholder.Main
+author: SFC_Log
+api-version: 1.19
+depend: [PlaceholderAPI]
